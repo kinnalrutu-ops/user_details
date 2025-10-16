@@ -7,4 +7,5 @@ div=input("")
 print("NAME:",name)
 print("USN:",usn)
 print("DIV:",div)
+print("SUBJECT: CSE")
 
