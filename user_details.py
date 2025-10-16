@@ -1,0 +1,10 @@
+print("enter name:")
+name=input("")
+print("enter usn:")
+usn=input("")
+print("enter div:")
+div=input("")
+print("NAME:",name)
+print("USN:",usn)
+print("DIV:",div)
+
